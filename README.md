@@ -2,6 +2,7 @@
 
 ## Commands
 
+- `npm install` - install dependencies
 - `npm start` - start the server
 - `npx create-react-app client` - create the client app
 - `npm init -y` - initialize the project
@@ -10,6 +11,7 @@
   - `express` installs the web framework for Node.js. (It will make our life easier.)
   - `cors` installs a Node.js package that allows cross origin resource sharing.
   - `dotenv` installs the module that loads environment variables from a .env file into process.env file. This lets you separate configuration files from the code.
+- `npm install bootstrap react-router-dom`
 
 ## Development Links
 
