@@ -13,6 +13,38 @@
   - `dotenv` installs the module that loads environment variables from a .env file into process.env file. This lets you separate configuration files from the code.
 - `npm install bootstrap react-router-dom`
 
+## Run the Application
+1. Start backend server:
+    ```bash
+    PS C:\Users\FlynntKnapp\Programming\mern-stack-tutorial\mern\server> npm start
+
+    > server@1.0.0 start
+    > node server.js
+
+    Server is running on port: 5000
+    Successfully connected to MongoDB.
+    ```
+1. Start frontend server:
+    ```bash
+    PS C:\Users\FlynntKnapp\Programming\mern-stack-tutorial\mern\client> npm start
+
+    .
+    .
+    .
+
+    Compiled successfully!
+
+    You can now view client in the browser.
+
+    Local:            http://localhost:3000
+    On Your Network:  http://192.168.0.9:3000
+
+    Note that the development build is not optimized.
+    To create a production build, use npm run build.
+
+    webpack compiled successfully
+    ```
+
 ## Development Links
 
 - <http://localhost:3000/>
